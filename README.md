@@ -197,4 +197,4 @@ This repository serves as the official landing page for NATRON. The software is 
 **Get the most recent version of NATRON today!**
 
 ---
-**Last updated:** 2026-11-07 23:16:08 UTC
+**Last updated:** 2026-11-08 03:29:46 UTC
